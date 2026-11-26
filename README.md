@@ -93,7 +93,10 @@ uvicorn main:app --reload
 ### 스크린샷
 
 ![AI 채팅 + 데이터 요약](./screenshots/Ai_chat)
-[대체 텍스트](./img/sample.png)
-[대체 텍스트](./img/sample.png)
-[대체 텍스트](./img/sample.png)
+
+![대화 기록 불러오기](./screenshots/load)
+
+![데이터 관리](./screenshots/manage_data)
+
+![swaaer ui](./screenshots/swagui)
 
