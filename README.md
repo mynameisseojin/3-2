@@ -88,6 +88,7 @@ uvicorn main:app --reload
 - Swagger UI: `[http://127.0.0.1:8000/docs](https://three-2-w47e.onrender.com/docs)`
 --- /docs 화면 캡쳐는 깃허브에서 확인 가능합니다.
 - 프론트엔드를 로컬에서 테스트할 경우, 프론트엔드의 `API_BASE`를 로컬 주소로 설정하고 로컬 서버와 함께 실행해야 합니다.
+```
 
 ### 스크린샷
 
