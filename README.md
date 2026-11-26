@@ -92,7 +92,7 @@ uvicorn main:app --reload
 
 ### 스크린샷
 
-![AI 채팅 + 데이터 요약](./screenshots/AI 채팅 + 데이터 요약.png)
+![AI 채팅 + 데이터 요약](./screenshots/Ai_chat)
 [대체 텍스트](./img/sample.png)
 [대체 텍스트](./img/sample.png)
 [대체 텍스트](./img/sample.png)
