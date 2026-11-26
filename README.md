@@ -92,11 +92,15 @@ uvicorn main:app --reload
 
 ### 스크린샷
 
+AI 채팅 + 데이터 요약
 ![AI 채팅 + 데이터 요약](./screenshots/Ai_chat)
 
+대화 기록 불러오기
 ![대화 기록 불러오기](./screenshots/load)
 
+데이터 관리
 ![데이터 관리](./screenshots/manage_data)
 
+swagger ui
 ![swaaer ui](./screenshots/swagui)
 
