@@ -82,7 +82,7 @@ python -m pip install -r requirements.txt
 
 ```bash
 uvicorn main:app --reload
-```
+``
 
 - API 기본 주소: `http://127.0.0.1:8000`
 - Swagger UI: `[http://127.0.0.1:8000/docs](https://three-2-w47e.onrender.com/docs)`
@@ -91,5 +91,8 @@ uvicorn main:app --reload
 
 ### 스크린샷
 
-깃허브에 올린 스크린샷들을 통해 AI채팅 및 데이터 요약 기능, 대화 기록 불러오기 기능, 데이터 관리 기능 확인이 가능합니다.
+[대체 텍스트](./img/sample.png)
+[대체 텍스트](./img/sample.png)
+[대체 텍스트](./img/sample.png)
+[대체 텍스트](./img/sample.png)
 
